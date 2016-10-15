@@ -1,0 +1,50 @@
+body {
+  /* background-color: #F8ECC2; */
+  background: url("background-paper.jpg");
+  margin-right: 15%;
+  margin-left: 15%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-size: 125%;
+
+}
+
+a {
+  text-align: left;
+  text-decoration: underline;;
+  color:#0B50BF;
+}
+
+p {
+  text-indent: 2em;
+  text-align: left;
+  font-family: "Times New Roman", Times, serif;
+}
+
+p::first-letter {
+  font-size: 150%;
+  text-transform: capitalize;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+  font-size: 150%;
+}
+
+h1 {
+  font-weight: bold;
+  /* 7F7F7F */
+  text-shadow: 2px 2px 8px #D3D3D3
+}
+
+img {
+  display: inline-block;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+figcaption{
+  display: block;
+}
