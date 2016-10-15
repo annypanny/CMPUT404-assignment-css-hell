@@ -6,27 +6,33 @@ I choose 3 books from Gutenberg:
 -  Jane Eyre: http://www.gutenberg.org/files/1260/1260-h/1260-h.htm
 
 Here is the changes that I made:
+
 Body: 
    - use a old paper-like background
    - size of the font change to 125%
    - change the margin on top, bottom, right, left
+   
 Hyperlink:
    - underlind the hyperlink
    - change the color 
+   
 Paragraph:
    - text indentation
    - text align on left side
    - change the font to Times New Roman in Serif
    - first letter capitalized
    - font of first letter to 150%
+   
 Headers:
   - change the font size to 150%
   - headers are in centre
   - change the book's title to bold and add blur shadow
+  
 Images:
   - apply a boder to each image, change the color of the border
   - image in the centre
   - add padding
+  
 Image captions:
   - display layout in block
 
